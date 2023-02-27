@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C49428FD-26D6-47DE-8D49-9F3AEAC93071"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1AEFCA03-4BB3-46D8-AEEF-D4F3E9BE7009"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DanhBa/Cell C.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "Cell_C"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1AEFCA03-4BB3-46D8-AEEF-D4F3E9BE7009 - 159ab9423394e747"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DanhBa.Cell_C.lbTitleC.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "DanhBa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huynguyen/iOS/Danh%20Ba/DanhBa/DanhBa/Cell%20C.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "1AEFCA03-4BB3-46D8-AEEF-D4F3E9BE7009 - bf6c02b6ebf24353"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DanhBa.Cell_C.lbTitleC.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "DanhBa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huynguyen/iOS/Danh%20Ba/DanhBa/DanhBa/Cell%20C.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "1AEFCA03-4BB3-46D8-AEEF-D4F3E9BE7009 - b7e017c6b6563c40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DanhBa.Cell_C.lbTitleC.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "DanhBa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huynguyen/iOS/Danh%20Ba/DanhBa/DanhBa/Cell%20C.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "1AEFCA03-4BB3-46D8-AEEF-D4F3E9BE7009 - fa2e4f5c8c159253"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DanhBa.Cell_C.lbTitleC.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "DanhBa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huynguyen/iOS/Danh%20Ba/DanhBa/DanhBa/Cell%20C.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "1AEFCA03-4BB3-46D8-AEEF-D4F3E9BE7009 - 312f05c2c42cf92a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DanhBa.Cell_C.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; DanhBa.Cell_C"
+                  moduleName = "DanhBa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huynguyen/iOS/Danh%20Ba/DanhBa/DanhBa/Cell%20C.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "127">
+               </Location>
+               <Location
+                  uuid = "1AEFCA03-4BB3-46D8-AEEF-D4F3E9BE7009 - 57259ebd6978c9a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DanhBa.Cell_C.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DanhBa.Cell_C&gt;"
+                  moduleName = "DanhBa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huynguyen/iOS/Danh%20Ba/DanhBa/DanhBa/Cell%20C.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59C0D84F-738F-4D66-B174-80F73F38C4A3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DanhBa/Cell C.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "Cell_C"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "59C0D84F-738F-4D66-B174-80F73F38C4A3 - 65ce0beb7ebe9e1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DanhBa.Cell_C.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; DanhBa.Cell_C"
+                  moduleName = "DanhBa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huynguyen/iOS/Danh%20Ba/DanhBa/DanhBa/Cell%20C.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "59C0D84F-738F-4D66-B174-80F73F38C4A3 - 312f05c2c42cf92a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DanhBa.Cell_C.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; DanhBa.Cell_C"
+                  moduleName = "DanhBa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huynguyen/iOS/Danh%20Ba/DanhBa/DanhBa/Cell%20C.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "127">
+               </Location>
+               <Location
+                  uuid = "59C0D84F-738F-4D66-B174-80F73F38C4A3 - 79e7c23833dada56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DanhBa.Cell_C.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DanhBa.Cell_C&gt;"
+                  moduleName = "DanhBa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huynguyen/iOS/Danh%20Ba/DanhBa/DanhBa/Cell%20C.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "59C0D84F-738F-4D66-B174-80F73F38C4A3 - 57259ebd6978c9a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DanhBa.Cell_C.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DanhBa.Cell_C&gt;"
+                  moduleName = "DanhBa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huynguyen/iOS/Danh%20Ba/DanhBa/DanhBa/Cell%20C.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "59C0D84F-738F-4D66-B174-80F73F38C4A3 - 1a455fc89350847e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DanhBa.Cell_C.__deallocating_deinit"
+                  moduleName = "DanhBa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huynguyen/iOS/Danh%20Ba/DanhBa/DanhBa/Cell%20C.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
